@@ -1,4 +1,4 @@
-module github.com/robinjoseph08/go-pg-migrations/v2
+module github.com/nathan219/go-pg-migrations
 
 go 1.13
 
