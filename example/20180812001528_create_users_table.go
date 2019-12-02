@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/go-pg/pg/v9/orm"
-	migrations "github.com/robinjoseph08/go-pg-migrations/v2"
+	migrations "github.com/nathan219/go-pg-migrations/v2"
 )
 
 func init() {

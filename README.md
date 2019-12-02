@@ -1,10 +1,10 @@
 # go-pg-migrations
 
-[![Version](https://img.shields.io/badge/version-v2.0.1-green.svg)](https://github.com/robinjoseph08/go-pg-migrations/releases)
-[![GoDoc](https://godoc.org/github.com/robinjoseph08/go-pg-migrations?status.svg)](http://godoc.org/github.com/robinjoseph08/go-pg-migrations)
-[![Build Status](https://travis-ci.org/robinjoseph08/go-pg-migrations.svg?branch=master)](https://travis-ci.org/robinjoseph08/go-pg-migrations)
-[![Coverage Status](https://coveralls.io/repos/github/robinjoseph08/go-pg-migrations/badge.svg?branch=master)](https://coveralls.io/github/robinjoseph08/go-pg-migrations?branch=master)
-[![Go Report Card](https://goreportcard.com/badge/github.com/robinjoseph08/go-pg-migrations)](https://goreportcard.com/report/github.com/robinjoseph08/go-pg-migrations)
+[![Version](https://img.shields.io/badge/version-v2.0.1-green.svg)](https://github.com/nathan219/go-pg-migrations/releases)
+[![GoDoc](https://godoc.org/github.com/nathan219/go-pg-migrations?status.svg)](http://godoc.org/github.com/nathan219/go-pg-migrations)
+[![Build Status](https://travis-ci.org/nathan219/go-pg-migrations.svg?branch=master)](https://travis-ci.org/nathan219/go-pg-migrations)
+[![Coverage Status](https://coveralls.io/repos/github/nathan219/go-pg-migrations/badge.svg?branch=master)](https://coveralls.io/github/nathan219/go-pg-migrations?branch=master)
+[![Go Report Card](https://goreportcard.com/badge/github.com/nathan219/go-pg-migrations)](https://goreportcard.com/report/github.com/nathan219/go-pg-migrations)
 
 A Go package to help write migrations with [`go-pg/pg`](https://github.com/go-pg/pg).
 
@@ -18,7 +18,7 @@ modules support; it currently depends on v9 of `go-pg`. To install it, use the
 following command in a project with a `go.mod`:
 
 ```sh
-$ go get github.com/robinjoseph08/go-pg-migrations/v2
+$ go get github.com/nathan219/go-pg-migrations/v2
 ```
 
 If you are not yet using Go modules, you can still use v1 of this package.
